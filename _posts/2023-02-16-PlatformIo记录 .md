@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      开发记录笔记
-subtitle:   开发记录笔记
+title:      PlatformIo记录
+subtitle:   PlatformIo记录
 date:       2023-02-16
 author:     Cinvy
 header-img: 
 tags:
-    - 开发记录笔记
+    - PlatformIo记录
 ---
 
 ## Clangd 
